@@ -1,3 +1,6 @@
+# If you are having trouble finding simplegui module run the code at http://www.codeskulptor.org/.
+
+
 # implementation of Spaceship - program template for RiceRocks
 import simplegui
 import math
